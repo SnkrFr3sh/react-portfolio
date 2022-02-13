@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.b38edcc3.css",
-    "main.js": "/react-portfolio/static/js/main.7badc3f8.js",
-    "static/media/aboutvector.png": "/react-portfolio/static/media/aboutvector.64db589d05c2bf891380.png",
+    "main.css": "/react-portfolio/static/css/main.e4345071.css",
+    "main.js": "/react-portfolio/static/js/main.cfd60547.js",
+    "static/media/lookBack.png": "/react-portfolio/static/media/lookBack.63cb8e7e5bc651284a5e.png",
+    "static/media/project3.png": "/react-portfolio/static/media/project3.1a57a785216d228e86b6.png",
+    "static/media/mountainLayerColor.png": "/react-portfolio/static/media/mountainLayerColor.d91fa7efbdbdea0e5fdd.png",
+    "static/media/hillLayerColor.png": "/react-portfolio/static/media/hillLayerColor.d7d3631575062577eecd.png",
+    "static/media/project4.png": "/react-portfolio/static/media/project4.466e175dc7f3fed89346.png",
+    "static/media/runArtist.png": "/react-portfolio/static/media/runArtist.3512f04902065d03c3f9.png",
+    "static/media/runChoreo.png": "/react-portfolio/static/media/runChoreo.19da33ca15c8520d78a4.png",
+    "static/media/project2.png": "/react-portfolio/static/media/project2.ff42d73f70b01827c0e5.png",
+    "static/media/runVectorMain.png": "/react-portfolio/static/media/runVectorMain.788818d46d27f39a7a5a.png",
     "static/media/resumeFront.jpg": "/react-portfolio/static/media/resumeFront.70c44babdb27347aaccb.jpg",
     "static/media/buildingVector.png": "/react-portfolio/static/media/buildingVector.e1b4c338d62520cedec2.png",
+    "static/media/project5.png": "/react-portfolio/static/media/project5.6b445419ee07d76b417e.png",
     "static/media/resumeBack.jpg": "/react-portfolio/static/media/resumeBack.925f85ad6da2a91b3123.jpg",
-    "static/media/landingimg.jpg": "/react-portfolio/static/media/landingimg.f538f5e08da087a97a06.jpg",
+    "static/media/runWeb.png": "/react-portfolio/static/media/runWeb.5c3a2e44a22448369c1c.png",
+    "static/media/project6.png": "/react-portfolio/static/media/project6.ce85dc7e427ecd4d0977.png",
+    "static/media/project1.jpeg": "/react-portfolio/static/media/project1.727abcfa622e2c348086.jpeg",
     "index.html": "/react-portfolio/index.html",
-    "main.b38edcc3.css.map": "/react-portfolio/static/css/main.b38edcc3.css.map",
-    "main.7badc3f8.js.map": "/react-portfolio/static/js/main.7badc3f8.js.map"
+    "main.e4345071.css.map": "/react-portfolio/static/css/main.e4345071.css.map",
+    "main.cfd60547.js.map": "/react-portfolio/static/js/main.cfd60547.js.map"
   },
   "entrypoints": [
-    "static/css/main.b38edcc3.css",
-    "static/js/main.7badc3f8.js"
+    "static/css/main.e4345071.css",
+    "static/js/main.cfd60547.js"
   ]
 }
